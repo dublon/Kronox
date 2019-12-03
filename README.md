@@ -4,7 +4,7 @@ This is a fork for our existing system at SLU. As of Jan 1st 2020 we are retirin
 
 At Sveriges lantbruksuniversitet (Alnarp, Alnarpsgården), it looks like this, and ran for two years on a Raspberry Pi 3:
 
-![](KronoxScreen/KronoxSLU.jpg)
+![](KronoxScreen/kronoxSLU.jpg)
 
 K3larra's original text:
 
