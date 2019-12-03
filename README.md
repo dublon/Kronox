@@ -2,7 +2,7 @@
 
 This is a fork for our existing system at SLU. As of Jan 1st 2020 we are retiring KronoX at SLU but here over the next few days I will upload the small changes we made to k3larra's excellent Kronox digital signage program. Notably this version has support for additional characters and I hard coded room names as opposed to simply displaying room codes. I hope this is of use to other Kronox users. Best wishes, Ian
 
-At Sveriges lantbruksuniversitet (Alnarp, Alnarpsgården), it looks like this, and ran for two years on a Raspberry Pi 3:
+At Sveriges lantbruksuniversitet (Alnarp, Alnarpsgården), it looks like this, and ran for nearly two years on a Raspberry Pi 3:
 
 ![](kronoxSLU.jpg)
 
