@@ -1,4 +1,4 @@
-// Ian's modifications to MAHs KronoxGUI. Includes extended character support (Dansk/Norsk, Fransk, Polsk) and has hard coded room information pertaining specifically to Alnarpgsården. 
+// Ian's modifications to MAHs KronoxGUI. Includes additional text character support (Dansk/Norsk, Fransk, Polsk) and has hard coded room information pertaining specifically to Alnarpgsården. 
 // Deployment machine requires a 1080p monitor in portrait mode and a Java RE.
 // 20171025 Ian Dublon ian.dublon@slu.se
 
